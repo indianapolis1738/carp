@@ -1,6 +1,6 @@
 import logo from './Images/CEX.jpg';
 import flag from './Images/nigeria.png';
-import box from './Images/new.png';
+import box from './Images/New.png';
 import iphone from './Images/pink-iphone.png'
 import icon from './Images/icon-step-1.png'
 import './App.css'
